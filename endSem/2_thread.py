@@ -1,7 +1,6 @@
 import threading
 
-even = [] 
-odd = []
+even, odd = [], []
 
 def find():
     for i in range(30, 51):
