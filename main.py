@@ -1,9 +1,8 @@
-x = input()
+'''
+    Docstring
+'''
+sum_value = 1
+for i in range(1,6):
+    sum_value = sum_value * i
 
-if x.isupper():
-    print("Capital")
-elif x.islower():
-    print("low")
-else:
-    print("other")
-    
+print(sum_value)
