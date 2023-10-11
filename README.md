@@ -1,3 +1,3 @@
-# MySpace
+# DSA Workspace
 
-Everything that my laptop does not support will be developed here
+Learning DSA in Python from Saurabh Shukla Sir
