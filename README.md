@@ -4,7 +4,14 @@ Learning DSA in Python by Saurabh Shukla Sir
 
 ## Day 1
 
+- Introduction class
 - [x] Introduction to DSA
 - [x] why to learn DSA
  
+ ## Day 2
+
+ - Lists and Arrays
+
+ ## Day 3
  
+ - class and objects
