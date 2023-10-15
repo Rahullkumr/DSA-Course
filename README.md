@@ -11,6 +11,7 @@ Learning DSA in Python by Saurabh Shukla Sir
  ## Day 2
 
  - Lists and Arrays
+ - Arrays and Dynamic arrays
 
  ## Day 3
  
