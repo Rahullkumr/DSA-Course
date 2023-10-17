@@ -18,3 +18,5 @@ Learning DSA in Python by Saurabh Shukla Sir
  - class and objects
 
  ## Day 4
+
+- Singly Linked List (sll)
