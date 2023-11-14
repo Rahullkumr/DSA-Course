@@ -1,22 +1,10 @@
-# DSA Workspace
+# DSA Using Python
 
-Learning DSA in Python by Saurabh Shukla Sir
-
-## Day 1
-
-- Introduction class
-- [x] Introduction to DSA
-- [x] why to learn DSA
+- Learning DSA in Python by Saurabh Shukla Sir
+- [Youtube Playlist](https://youtube.com/playlist?list=PL7ersPsTyYt1HnCgrT6Up-pan4yLBpyFs&si=-3IJ-CnN38HGk0Ud)
  
- ## Day 2
+ ## Days:
 
- - Lists and Arrays
- - Arrays and Dynamic arrays
+- [Day 1: Notes](day1.md)
+- [Day 2: Notes](day2.md)
 
- ## Day 3
- 
- - class and objects
-
- ## Day 4
-
-- Singly Linked List (sll)
