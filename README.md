@@ -7,4 +7,6 @@
 
 - [Day 1: Notes](day1.md)
 - [Day 2: Notes](day2.md)
+- [Day 3: Notes](day3.md)
+
 
