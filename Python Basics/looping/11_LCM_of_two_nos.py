@@ -1,0 +1,1 @@
+# Calculate LCM of two given numbers
