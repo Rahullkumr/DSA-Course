@@ -15,7 +15,7 @@ def LCM_byMe(num1, num2):
 def LCM_optimised(a, b):
     def hcf(a, b):
         while b:
-            a, b = b, a % b
+            a, b = b, a % b # RHS evaluates first then assigned
         return a
 
     print(f'Optimized LCM = {(a * b) // hcf(a, b)}')
