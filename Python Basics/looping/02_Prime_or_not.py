@@ -13,3 +13,16 @@ else:
 
 
 
+# Other way
+
+'''
+def is_prime(no):
+    if no == 2:
+        return True 
+
+    for i in range(2, no):
+        return False if (no % i == 0) else True
+        
+
+print("yes" if is_prime(2) else "no")
+'''
