@@ -1,4 +1,4 @@
-# Write a python script to implement Match-Case (switch case in oter Pro. languages)
+# Write a python script to implement Match-Case (switch case in other Pro. languages)
 
 day = int(input("Enter any number from 1 to 7 to print Weekday: "))
 
