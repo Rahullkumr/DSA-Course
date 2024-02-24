@@ -9,6 +9,11 @@ def reverse_digits(num):
     return reversed_no
 
 
-original = 123215
+original = int(input("Enter number to check: "))
 reverse = reverse_digits(original)
 print("Palindrome" if original == reverse else "Not Palindrome")
+
+
+# Check a number to be Palindrome or not (PYTHON WAY)
+
+print("yes" if original == int(str(original)[::-1]) else "no")
