@@ -4,9 +4,3 @@
 - [Youtube Playlist](https://youtube.com/playlist?list=PL7ersPsTyYt1HnCgrT6Up-pan4yLBpyFs&si=-3IJ-CnN38HGk0Ud)
  
  ## Days:
-
-- [Day 1: Notes](day1.md)
-- [Day 2: Notes](day2.md)
-- [Day 3: Notes](day3.md)
-
-
