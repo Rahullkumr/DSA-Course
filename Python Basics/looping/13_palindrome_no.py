@@ -14,6 +14,8 @@ reverse = reverse_digits(original)
 print("Palindrome" if original == reverse else "Not Palindrome")
 
 
-# Check a number to be Palindrome or not (PYTHON WAY)
+# Check a number to be Palindrome or not (PYTHON WAY - very concise)
+# Determine whether an integer is a palindrome. Do this without extra space.
 
 print("yes" if original == int(str(original)[::-1]) else "no")
+
